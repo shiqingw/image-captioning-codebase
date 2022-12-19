@@ -1,2 +1,2 @@
-# image_captioning_codebase
+# image-captioning-codebase
 Bahdanau and Transformer attention mechanisms on Flickr8k
